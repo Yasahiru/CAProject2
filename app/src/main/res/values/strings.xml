@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project1CA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Application de Présentation et Exploration</string>
+    <string name="desc">Image de présentation</string>
+    <string name="desci">Description complémentaire de l application sous l image.</string>
+    <string name="presentation">
+        Cette application propose une interface intuitive pour explorer différentes fonctionnalités via une navigation fluide entre trois sections principales. Elle présente une introduction détaillée des objectifs de l application, une liste interactive permettant de découvrir des éléments spécifiques (comme des villes ou des pays), et une section illustrée avec du contenu visuel et textuel enrichissant. Que vous souhaitiez en savoir plus sur les fonctionnalités ou explorer des éléments visuels, cette application offre une expérience utilisateur complète et immersive.
+    </string>
+</resources>
